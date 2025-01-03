@@ -1,4 +1,6 @@
-*{
-    margin: auto;
+div{
+
     padding: 10px;
+    background-color: bisque;
+    margin-bottom: 10px;
 }
