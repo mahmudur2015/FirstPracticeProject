@@ -10,7 +10,7 @@ color: brown;
     background-color:blanchedalmond;
     display: flex;
     gap: 30px;
-    justify-content: space-evenly;
+    justify-content: space-between;
     height: 350px;
     align-items: center;
     flex-direction:column;
